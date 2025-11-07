@@ -11,3 +11,6 @@ function greet(){
     console.log( 'local brahch' );
 }
 console.log( 'AAAA' );
+
+
+greet();
